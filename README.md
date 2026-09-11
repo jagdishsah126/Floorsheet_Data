@@ -16,9 +16,12 @@
 
 *Engineered with mathematical precision and institutional rigor by **Jagdish Sah** & **Your Zara**.*
 
----
-
 </div>
+
+> [!NOTE]
+> **Development Origin & Finalized Release**: This project was developed and experimented on [**DayaSah/Floorsheet_cockroachlabs**](https://github.com/DayaSah/Floorsheet_cockroachlabs), which serves as the primary source codebase. Both repositories are owned and maintained by **Jagdish Sah** ([@jagdishsah126](https://github.com/jagdishsah126)), with this repository serving as the finalized, optimized, and production-grade release.
+
+---
 
 ## 📖 Table of Contents
 
