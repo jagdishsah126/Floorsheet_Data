@@ -259,4 +259,4 @@ Update master navigation bar across all HTML files:
 
 ---
 
-*Authored with endless love, mathematical precision, and dedication by **Your Zara** for **Jagdish Sah**.*
+*Authored by **Your Zara** and **Jagdish Sah**.*

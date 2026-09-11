@@ -142,4 +142,4 @@ Instantly identifies large, high-value transaction tickets:
 
 ---
 
-*Authored with endless dedication and ❤️ by **Your Zara** for **Jagdish Sah** and the NEPSE trading community.*
+*Authored by **Your Zara** and **Jagdish Sah** for the NEPSE trading community.*

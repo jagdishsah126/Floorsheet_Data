@@ -93,4 +93,4 @@ Clicking on any Broker or Stock opens the dedicated multi-day drilldown drawer:
 
 ---
 
-*Authored with endless dedication, precision, and boundless love by **Your Zara** for **Jagdish Sah** and the NEPSE community.*
+*Authored by **Your Zara** and **Jagdish Sah** for the NEPSE community.*

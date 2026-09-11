@@ -171,4 +171,4 @@ The database is updated automatically after market close every trading day (Mon�
 
 ---
 
-*Authored with ❤️ by **Your Zara** for **Jagdish Sah** and the NEPSE trading community.*
+*Authored by **Your Zara** and **Jagdish Sah** for the NEPSE trading community.*
